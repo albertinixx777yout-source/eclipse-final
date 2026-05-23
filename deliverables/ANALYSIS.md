@@ -2,9 +2,9 @@
 
 ---
 
-## Mapeo entre CHANGELOG.md e index.html
+## Mapeo de intrucciones técnicas y elementos html
 
-En esta sección se relaciona cada instrucción técnica con el elemento HTML afectado.
+Tabla con el mapeo de las instrucciones técnica del CHANGELOG.md con los elementos del `index.html`.
 
 | Versión |   Fecha    |       Instrucción del CHANGELOG.md         | Elemento HTML en `index.html` | 
 |---------|------------|--------------------------------------------|-------------------------------|
