@@ -24,24 +24,44 @@ En esta sección se describirá cómo estará organizado el archivo `styles.css`
 
 ```css
 /* Reset y estilos globales */
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
 }
 
 /* Navegación */
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
 
 /* Contenido de portada */
+.hero{
+    padding:40px;
+}
 
 /* Multimedia */
+.video-container{
+    width:100%;
+}
 
 /* Botones */
+.btn{
+    background:#e2b450;
+    border-radius:8px;
+}
 
 /* Tarjetas */
+.card{
+    padding:20px;
+}
 
 /* Pie del sitio */
-
+.footer{
+    text-align:center;
+}
 ```
 ## Estrategia de Nomenclatura CSS
 
